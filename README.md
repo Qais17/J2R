@@ -3,7 +3,7 @@ jeux2role
 
 A Symfony project created on February 9, 2017, 8:24 am.
 
-Author Loïc DERRIEUX  
+Author Qais AMINI  
 ## Technos :
 * Symfony 3  
 * Jquery 3.1.1  
