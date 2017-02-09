@@ -1,3 +1,4 @@
+
 jeux2role
 =========
 
@@ -20,3 +21,10 @@ Si necessaire nous fournirons le cahier des charges vie le lien sur le drive.
 ## informations complementaires :  
 Importer le fichier sql suivant dans votre base de données :  
 /sql/jeu_de_role.sql commit numero 42665fca7637045108554565449e8276a8972197
+=======
+jeuxDeRoleSymfony
+=================
+
+A Symfony project created on February 8, 2017, 11:03 am.
+
+
